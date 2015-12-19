@@ -1,0 +1,28 @@
+#button-container {
+	margin-left: 500px;
+	margin-top: 100px;
+	width: 180px;
+}
+
+body {
+	background-color: #029caf;
+}
+
+input {
+	height: 50px;
+	width: 190px;
+	background-color: #029c15;
+	color: white;
+	padding: 6px;
+	border: 1px solid #aaaaaa;
+	font: italic 14px 'Trebuchet MS';
+	cursor: pointer;
+	-webkit-border-radius: 4px;
+	-mox-border-radius: 4px;
+	box-shadow: 5px 5px 20px #000000;
+}
+
+/*input:hover {
+	border-radius: 10px;
+	border-color: #0291c5;
+}*/
