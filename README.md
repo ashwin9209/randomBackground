@@ -1,5 +1,4 @@
 # Random Background Color Changer
-JavaScript after years! Starting small.
 
 I'm getting back to JavaScript after years.
 
