@@ -15,7 +15,7 @@ input {
 	cursor: pointer;
 	-webkit-border-radius: 4px;
 	-moz-border-radius: 4px;
-	box-shadow: 5px 5px 20px #000000;
+	box-shadow: 5px 5px 100px #ffffff;
 }
 
 #initial-state-body {
@@ -32,4 +32,5 @@ input {
 #hexCode-value {
 	font: 36px 'Raleway', 'Helvetica','Trebuchet MS';
 	text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+	letter-spacing: 1px;
 }
