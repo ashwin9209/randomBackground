@@ -1,11 +1,7 @@
 #button-container {
-	margin-left: 500px;
-	margin-top: 100px;
+	margin-left: 43%;
+	margin-top: 8%;
 	width: 180px;
-}
-
-body {
-	background-color: #029caf;
 }
 
 input {
@@ -15,14 +11,25 @@ input {
 	color: white;
 	padding: 6px;
 	border: 1px solid #aaaaaa;
-	font: italic 14px 'Trebuchet MS';
+	font: 14px 'Helvetica','Trebuchet MS';
 	cursor: pointer;
 	-webkit-border-radius: 4px;
-	-mox-border-radius: 4px;
+	-moz-border-radius: 4px;
 	box-shadow: 5px 5px 20px #000000;
 }
 
-/*input:hover {
-	border-radius: 10px;
-	border-color: #0291c5;
-}*/
+#initial-state-body {
+	background-color: #029caf;
+}
+
+#hexCode-container {
+	margin-top: 20px;
+	width: 200px;
+	margin-left: 43%;
+	text-align: center;
+}
+
+#hexCode-value {
+	font: 36px 'Raleway', 'Helvetica','Trebuchet MS';
+	text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+}
